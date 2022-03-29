@@ -1,0 +1,19 @@
+
+
+h1 {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    text-decoration: underline;
+}
+h3 {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    text-decoration: underline;
+}
+p { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content:center
+}
