@@ -1,0 +1,53 @@
+table, th, td {
+    border: 1px solid black;
+    padding: 20px;
+    border-collapse: collapse;
+ }
+h1{
+    display: flex;
+    font-size: 50px;
+    background-color: #95D9C3;
+    justify-content: space-around;
+    padding: 10px;
+    margin: auto;
+}
+p{
+    font-size: 30px;
+    padding: 20px;
+}
+.intro{
+    display: flex;
+    padding: 60px;
+    background-color: #8AA39B;
+}
+
+body{
+    background-color: #A7FFF6;
+}
+
+.secbody{
+    display: flex;
+    padding: 40px;
+    background-color: #8AA39B;
+}
+
+.form{
+    display: flex;
+    background-color: #8AA39B;
+    justify-content: center;
+    padding: 20px;
+}
+.video{
+    justify-content: center;
+}
+
+img{
+    width: 700px;
+    height: 500px;
+}
+
+.table{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
